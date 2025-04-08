@@ -25,7 +25,7 @@ Proyek ini bertujuan untuk mengembangkan sistem pengenalan bahasa isyarat Indone
 - Matplotlib
 
 ## 📊 Arsitektur Model
-- Model LSTM menggunakan:
+Model LSTM menggunakan:  
 - Input Layer: Array urutan koordinat gesture (time-series)
 - LSTM Layer: Untuk menangkap pola sekuensial dari gesture
 - Dense Layer: Klasifikasi output ke label SIBI
