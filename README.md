@@ -40,7 +40,3 @@ Model LSTM menggunakan:
 - Pastikan kamera berfungsi baik saat mengumpulkan data
 - Gesture tangan harus konsisten dan sesuai label
 - Semakin banyak data dikumpulkan, semakin baik performa model
-
-## 📚 Referensi
-- Mediapipe Hands
-- TensorFlow LSTM Documentation
